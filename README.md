@@ -2,8 +2,7 @@
 
 A minimalist analog clock built with vanilla HTML, CSS, and JavaScript. The clock hands update in real time based on the user's system time.
 
-![Clock preview](<img width="1860" height="997" alt="screenshot" src="https://github.com/user-attachments/assets/6c7c82bd-6e9d-4603-b35d-e18d07f371c9" />
-)
+<img width="1860" height="997" alt="screenshot" src="https://github.com/user-attachments/assets/ebddcabc-334d-4c47-9bdd-9b4e9a1ce809" />
 
 ## Features
 
